@@ -45,6 +45,13 @@
         <item>10000</item>
     </integer-array>
 
+         <!-- Indicate whether closing the lid causes the device to go to sleep and opening
+
+          it causes the device to wake up.
+
+          The default is false. -->
+    <bool name="config_lidControlsSleep">true</bool>
+
     <!-- Array of output values for LCD backlight corresponding to the LUX values
          in the config_autoBrightnessLevels array.  This array should have size one greater
          than the size of the config_autoBrightnessLevels array.
