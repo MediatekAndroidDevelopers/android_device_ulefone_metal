@@ -67,3 +67,5 @@ ro.mtk_clearmotion_support=1
 keyguard.no_require_sim=true
 camera.disable_zsl_mode=1
 persist.debug.wfd.enable=1
+# reverse HALL cover
+ro.reversed.hall=1
