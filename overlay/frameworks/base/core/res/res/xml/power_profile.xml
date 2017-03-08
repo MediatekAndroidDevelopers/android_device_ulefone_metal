@@ -18,14 +18,14 @@
         <value>4</value>
     </array>
     <array name="cpu.speeds">
-        <value>403000</value>
-        <value>806000</value>
-        <value>1183000</value>
-        <value>1326000</value>
-        <value>1482000</value>
-        <value>1664000</value>
-        <value>1885000</value>
-        <value>2158000</value>
+        <value>299000</value>
+        <value>442000</value>
+        <value>598000</value>
+        <value>819000</value>
+        <value>1040000</value>
+        <value>1144000</value>
+        <value>1235000</value>
+        <value>1300000</value>
     </array>
     <item name="cpu.idle">3.9</item>
 	<item name="cpu.awake">62</item>
