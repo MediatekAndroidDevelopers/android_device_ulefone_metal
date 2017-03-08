@@ -75,42 +75,6 @@
         <item>230</item>
         <item>255</item>
     </integer-array>
-    <integer-array name="config_autoBrightnessButtonBacklightValues">
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-    </integer-array>
-    <integer-array name="config_autoBrightnessKeyboardBacklightValues">
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-    </integer-array>
 
     <!-- Is the device capable of hot swapping an UICC Card -->
     <bool name="config_hotswapCapable">true</bool>
