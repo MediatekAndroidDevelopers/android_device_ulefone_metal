@@ -10,8 +10,6 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 TARGET_OTA_ASSERT_DEVICE := metal
 
 PRODUCT_PACKAGES += \
-    libmtkshim_log \
-    libmtkshim_audio \
     libstlport
 
 # Lights
