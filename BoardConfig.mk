@@ -60,7 +60,8 @@ TARGET_USERIMAGES_USE_F2FS := true
 # Include needed symbols
 TARGET_INCLUDE_XLOG_SYMBOLS := true
 TARGET_INCLUDE_AUDIO_SYMBOLS := true
-TARGET_INCLUDE_GPS_SYMBOLS := true
+TARGET_INCLUDE_UI_SYMBOLS := true
+TARGET_INCLUDE_GUI_SYMBOLS := true
 include vendor/mad/config/symbols.mk
 
 # Display
@@ -93,6 +94,3 @@ TARGET_SYSTEM_PROP := $(LOCAL_PATH)/system.prop
 
 # SELinux
 BOARD_SEPOLICY_DIRS += $(LOCAL_PATH)/sepolicy
-
-# Seccomp filter
-BOARD_SECCOMP_POLICY := $(LOCAL_PATH)/seccomp
