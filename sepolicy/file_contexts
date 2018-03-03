@@ -1,2 +1,2 @@
 # Sysfs nodes
-/sys/tpd_gesture/tpd_gesture_enable           u:object_r:smartwake_sysfs:s0
+/sys/tpd_gesture/tpd_gesture_enable           u:object_r:sysfs_smartwake:s0
