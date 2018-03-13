@@ -9,9 +9,6 @@ PRODUCT_AAPT_PREF_CONFIG := xhdpi
 # Recovery allowed devices
 TARGET_OTA_ASSERT_DEVICE := metal
 
-PRODUCT_PACKAGES += \
-    libstlport
-
 # Manifest
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/manifest.xml:system/vendor/manifest.xml
